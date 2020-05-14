@@ -432,11 +432,15 @@ let a18 = {
 
 function f18() {
     let inputValue = document.querySelector('.i-18').value,
-        out = ''
+        out = ' '
 
-        for (let i = 0; i < a18[inputValue].length; i++)
-            out += a18[inputValue][i] + ' '
-
+    for (let k in a18) {
+        if (k === inputValue) {
+            for (let i of a18[inputValue]) {
+                out += i + ' '
+            }
+        }
+    }
     document.querySelector('.out-18').textContent = out
 }
 

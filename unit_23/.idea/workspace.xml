@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="160931e2-0528-43e6-a0fc-b9ff6c93af26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7278a094-83d0-4aed-94be-c8005824321e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../unit_13/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../unit_19/.idea/unit_19.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit_13.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit_13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit_13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unit_13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit_13/unit_13.js" beforeDir="false" afterPath="$PROJECT_DIR$/../unit_13/unit_13.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1aeo3AnPjO9kJNSnaXYhwqSqjct" />
+  <component name="ProjectId" id="1blgRyzs5ITf6fQf0GbmV06Ow7f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,9 +29,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unit_19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unit_24" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,15 +43,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="160931e2-0528-43e6-a0fc-b9ff6c93af26" name="Default Changelist" comment="" />
-      <created>1587105218403</created>
+      <changelist id="7278a094-83d0-4aed-94be-c8005824321e" name="Default Changelist" comment="" />
+      <created>1589212089073</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587105218403</updated>
-      <workItem from="1587105219730" duration="6221000" />
-      <workItem from="1588276680379" duration="1463000" />
-      <workItem from="1588322417434" duration="536000" />
-      <workItem from="1589132357024" duration="1529000" />
+      <updated>1589212089073</updated>
+      <workItem from="1589212090259" duration="7030000" />
     </task>
     <servers />
   </component>
@@ -60,19 +56,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1589133886192">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589225971996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589133886192" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588322951188" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588322933969">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588322933969" />
-    <state x="493" y="190" key="run.anything.popup" timestamp="1589133350035">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="493" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589133350035" />
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587106219560" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589225971996" />
   </component>
 </project>
